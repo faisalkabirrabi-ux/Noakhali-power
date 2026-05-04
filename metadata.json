@@ -1,0 +1,6 @@
+{
+  "name": "নোয়াখালী বিদ্যুৎ সেবা",
+  "description": "নোয়াখালী জেলার সকল উপজেলার লোডশেডিং আপডেট, সময়সূচী এবং পল্লী বিদ্যুৎ যোগাযোগের তথ্য।",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
